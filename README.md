@@ -1,2 +1,2 @@
-# COSC352
-Morgan State University Organization of Programming Language
+# COSC352 Organization of Programming Language
+
